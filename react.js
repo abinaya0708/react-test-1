@@ -16,7 +16,7 @@
 
     // i)npm i react-icons
     // ii)npm i sass
-    //iii)npx create-react-app appName
+    //iii)npm i react-google-fonts
 
 //----------------------------------------------------------------------------------------------------------
 
